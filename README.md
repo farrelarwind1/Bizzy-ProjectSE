@@ -1,2 +1,2 @@
-# Bizzy-ProjectSE
-BINUS University Final Semester Project
+# Bizzy-Project
+BINUS University Software Engineering Final Semester Project
